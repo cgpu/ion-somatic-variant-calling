@@ -1,4 +1,4 @@
-# somatic-variant-caller
+# ion-somatic-variant-caller
 
 An example run of the pipeline may look something like this:
 ```bash
